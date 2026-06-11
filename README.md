@@ -1,8 +1,8 @@
 # Mateus Faria
 
-**Automation, data and AI applied to engineering workflows.**
+**Automation, data, AI and product design applied to engineering workflows.**  
 
-**Automação, dados e IA aplicada a processos de engenharia.**
+**Automação, dados, IA e design de produto aplicados a processos de engenharia.**
 
 I build practical software solutions to automate manual workflows, organize technical data and support engineering decisions using Python, SQL, SAP HANA, local AI and process automation.
 
