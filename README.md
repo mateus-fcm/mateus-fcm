@@ -28,10 +28,13 @@ I’m especially interested in projects involving:
 
 Local AI assistant designed to answer questions over technical and regulatory documents.
 
-The project explores a complete RAG pipeline using document chunking, multilingual embeddings, vector search, hybrid retrieval and local LLMs. The goal is to make technical standards easier to search, understand and apply in engineering contexts.
+The project explores a complete RAG pipeline using document chunking, multilingual embeddings, hybrid retrieval, vector search and local LLMs. It is evolving from a local prototype into a more structured architecture using PostgreSQL, pgvector, Docker and database management tools such as CloudBeaver.
+
+The goal is to make technical standards easier to search, understand and apply in engineering contexts, combining AI, data infrastructure and a clean user experience.
 
 **Main concepts:**
-RAG · Local LLMs · Embeddings · Vector Search · ChromaDB · Technical Documents · Python
+RAG · Local LLMs · Embeddings · Hybrid Search · Vector Search · SQL · PostgreSQL · pgvector · Docker · CloudBeaver · ChromaDB · Ollama · Technical Documents · Python
+
 
 ---
 
@@ -51,17 +54,21 @@ Python · SQL · SAP HANA · Process Automation · Batch Processing · Data Vali
 **Languages & Data**
 Python · SQL · Pandas
 
+**Databases & Infrastructure**
+SAP HANA · PostgreSQL · pgvector · ChromaDB · Docker · CloudBeaver
+
 **Automation & Processing**
 Selenium · Excel/CSV automation · Document generation · Logging · Batch workflows
 
 **AI & Search**
-RAG · Local LLMs · Embeddings · Vector databases · ChromaDB · Ollama
+RAG · Local LLMs · Embeddings · Hybrid search · Vector databases · Ollama
+
+**Product & Interface**
+Figma · UI/UX · Interface design · User flows · React Native · Expo
 
 **Enterprise & Engineering Context**
-SAP HANA · Technical data workflows · Business process automation · Engineering documentation
+Technical data workflows · Business process automation · Engineering documentation · Regulatory documents
 
-**Currently studying**
-React Native · Expo · APIs · Mobile development · Software architecture
 
 ## Featured repositories
 
