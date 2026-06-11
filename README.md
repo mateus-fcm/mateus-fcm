@@ -1,47 +1,81 @@
 # Mateus Faria
 
-**Automation, data and engineering software.**  
-**Automação, dados e software aplicado à engenharia.**
+**Automation, data and AI applied to engineering workflows.**
+**Automação, dados e IA aplicada a processos de engenharia.**
 
-I build practical solutions with Python, SQL and automation to reduce manual work, organize technical data and support engineering workflows.
+I build practical software solutions to automate manual workflows, organize technical data and support engineering decisions using Python, SQL, SAP HANA, local AI and process automation.
 
 ## About me
 
-I'm focused on software applied to real operational problems, especially in process automation, data analysis and engineering-related systems.
+I'm focused on software applied to real operational and engineering problems.
 
-My experience includes building automation tools for repetitive corporate workflows, working with SQL queries in SAP HANA environments, processing technical records in batches and creating structured outputs such as reports, logs and documents.
+My work combines process automation, data analysis, technical document intelligence and corporate workflow optimization. I have practical experience building tools that reduce repetitive manual work, process technical records in batches, query enterprise databases and transform operational rules into automated workflows.
 
-## Main interests
+I’m especially interested in projects involving:
 
 * Process automation
-* Data analysis
 * Engineering software
-* SAP HANA / SQL-based workflows
+* SQL and SAP HANA data workflows
 * AI applied to technical documents
+* Local RAG assistants
+* Data extraction, validation and reporting
 * Mobile and web applications
+
+## Flagship projects
+
+### SofIA — Technical RAG Assistant
+
+Local AI assistant designed to answer questions over technical and regulatory documents.
+
+The project explores a complete RAG pipeline using document chunking, multilingual embeddings, vector search, hybrid retrieval and local LLMs. The goal is to make technical standards easier to search, understand and apply in engineering contexts.
+
+**Main concepts:**
+RAG · Local LLMs · Embeddings · Vector Search · ChromaDB · Technical Documents · Python
+
+---
+
+### Batch Record Completion Automation
+
+Automation case study based on a real high-volume operational workflow.
+
+The original solution automated the completion of approximately **400 technical records per batch**, reducing a manual process that previously required multiple people and around one week of work to approximately **15 minutes of automated execution**.
+
+The public version is being rebuilt as a safe demo with fictional data, preserving the general architecture and logic without exposing confidential systems, internal data or proprietary code.
+
+**Main concepts:**
+Python · SQL · SAP HANA · Process Automation · Batch Processing · Data Validation · Logs
 
 ## Tech stack
 
 **Languages & Data**
 Python · SQL · Pandas
 
-**Automation & Tools**
-Selenium · Excel/CSV automation · Git · GitHub
+**Automation & Processing**
+Selenium · Excel/CSV automation · Document generation · Logging · Batch workflows
+
+**AI & Search**
+RAG · Local LLMs · Embeddings · Vector databases · ChromaDB · Ollama
 
 **Enterprise & Engineering Context**
-SAP HANA · Business process automation · Technical data workflows
+SAP HANA · Technical data workflows · Business process automation · Engineering documentation
 
 **Currently studying**
-React Native · Expo · APIs · RAG · Local LLMs
+React Native · Expo · APIs · Mobile development · Software architecture
 
-## Featured projects
+## Featured repositories
 
 Coming soon:
 
-* **Batch Record Completion Automation** — case study of a batch automation that reduced a manual workflow from days to minutes.
-* **Engineering Request Automation Demo** — automation demo for technical request validation, document generation and structured logs.
-* **Technical RAG Assistant** — local assistant for searching and answering questions over technical documents.
-* **TripQuest Mobile** — gamified travel app concept built with React Native and Expo.
+* `technical-rag-assistant` — Local RAG assistant for technical documents.
+* `batch-record-completion-automation` — Demo case study of a batch automation that reduced a manual workflow from days to minutes.
+* `engineering-request-automation-demo` — Technical request automation with validation rules, document generation and structured logs.
+* `tripquest-mobile` — Gamified travel app concept built with React Native and Expo.
+
+## Professional focus
+
+I’m building my portfolio around software that solves real problems:
+
+> automating repetitive work, connecting data sources, extracting technical information and turning complex processes into reliable digital workflows.
 
 ## Contact
 
