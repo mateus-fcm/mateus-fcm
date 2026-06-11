@@ -1,8 +1,9 @@
 # Mateus Faria
 
-**Automation, data and engineering software.**
+**Automation, data and engineering software.**  
+**Automação, dados e software aplicado à engenharia.**
 
-I build practical solutions using Python, SQL and automation to reduce manual work, organize technical data and support engineering workflows.
+I build practical solutions with Python, SQL and automation to reduce manual work, organize technical data and support engineering workflows.
 
 ## About me
 
