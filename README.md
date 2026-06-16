@@ -1,91 +1,114 @@
+<div align="center">
+
 # Mateus Faria
 
-**Automation, data, AI and product design applied to engineering workflows.**  
+### Automation, data and AI applied to engineering workflows
 
-**Automação, dados, IA e design de produto aplicados a processos de engenharia.**
+I build practical software to automate manual processes, organize technical data  
+and transform operational rules into reliable digital workflows.
 
-I build practical software solutions to automate manual workflows, organize technical data and support engineering decisions using Python, SQL, SAP HANA, local AI and process automation.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+
+</div>
+
+---
 
 ## About me
 
 I'm focused on software applied to real operational and engineering problems.
 
-My work combines process automation, data analysis, technical document intelligence and corporate workflow optimization. I have practical experience building tools that reduce repetitive manual work, process technical records in batches, query enterprise databases and transform operational rules into automated workflows.
+My work combines:
 
-I’m especially interested in projects involving:
+- Process automation
+- SQL and SAP HANA data workflows
+- Technical document intelligence
+- Local AI assistants and RAG pipelines
+- Data extraction, validation and reporting
+- Mobile and web product prototyping
 
-* Process automation
-* Engineering software
-* SQL and SAP HANA data workflows
-* AI applied to technical documents
-* Local RAG assistants
-* Data extraction, validation and reporting
-* Mobile and web applications
+I like building tools that reduce repetitive manual work, connect data sources and make complex technical processes easier to execute, audit and improve.
 
-## Flagship projects
+---
 
-### SofIA — Technical RAG Assistant
+## Featured projects
 
-Local AI assistant designed to answer questions over technical and regulatory documents.
+### SofIA / NR10 RAG Assistant
 
-The project explores a complete RAG pipeline using document chunking, multilingual embeddings, hybrid retrieval, vector search and local LLMs. It is evolving from a local prototype into a more structured architecture using PostgreSQL, pgvector, Docker and database management tools such as CloudBeaver.
+Local AI assistant for technical and regulatory documents.
 
-The goal is to make technical standards easier to search, understand and apply in engineering contexts, combining AI, data infrastructure and a clean user experience.
+This project explores a complete RAG pipeline using document chunking, multilingual embeddings, hybrid search, reranking and local LLM inference.
 
-**Main concepts:**
-RAG · Local LLMs · Embeddings · Hybrid Search · Vector Search · SQL · PostgreSQL · pgvector · Docker · CloudBeaver · ChromaDB · Ollama · Technical Documents · Python
+**Main concepts:**  
+`Python` · `RAG` · `Embeddings` · `Hybrid Search` · `Local LLMs` · `Ollama` · `PostgreSQL` · `pgvector` · `Docker`
 
+Repository: [`nr10-rag-assistant`](https://github.com/mateus-fcm/nr10-rag-assistant)
 
 ---
 
 ### Batch Record Completion Automation
 
-Automation case study based on a real high-volume operational workflow.
+Sanitized case study of a high-volume operational automation workflow.
 
-The original solution automated the completion of approximately **400 technical records per batch**, reducing a manual process that previously required multiple people and around one week of work to approximately **15 minutes of automated execution**.
+The original solution automated the completion of approximately **400 technical records per batch**, reducing a manual process that previously required multiple people and around one week of work to approximately **15 minutes** of automated execution.
 
-The public version is being rebuilt as a safe demo with fictional data, preserving the general architecture and logic without exposing confidential systems, internal data or proprietary code.
+The public version uses fictional data and preserves the general architecture without exposing confidential systems, internal data or proprietary code.
 
-**Main concepts:**
-Python · SQL · SAP HANA · Process Automation · Batch Processing · Data Validation · Logs
+**Main concepts:**  
+`Python` · `SQL` · `SAP HANA` · `Pandas` · `Excel Automation` · `Batch Processing` · `Logs`
+
+Repository: [`batch-record-completion-automation`](https://github.com/mateus-fcm/batch-record-completion-automation)
+
+---
+
+### Technical Support Response Automation
+
+Sanitized case study of a technical support workflow.
+
+The project simulates how structured data, validation rules and process automation can support faster and more consistent responses in technical service operations.
+
+**Main concepts:**  
+`Python` · `SQL` · `Excel` · `Selenium-style automation` · `Process Automation`
+
+Repository: [`technical-support-response-automation`](https://github.com/mateus-fcm/technical-support-response-automation)
+
+---
 
 ## Tech stack
 
-**Languages & Data**
-Python · SQL · Pandas
+| Area | Tools |
+|---|---|
+| Languages & Data | Python, SQL, Pandas |
+| Databases | PostgreSQL, pgvector, SAP HANA, ChromaDB |
+| Automation | Selenium, Excel/CSV workflows, document generation, logging |
+| AI & Search | RAG, embeddings, hybrid search, reranking, local LLMs, Ollama |
+| Infrastructure | Docker, CloudBeaver, Git |
+| Product & UI | Figma, React Native, Expo, UI/UX prototyping |
 
-**Databases & Infrastructure**
-SAP HANA · PostgreSQL · pgvector · ChromaDB · Docker · CloudBeaver
+---
 
-**Automation & Processing**
-Selenium · Excel/CSV automation · Document generation · Logging · Batch workflows
+## What I'm building toward
 
-**AI & Search**
-RAG · Local LLMs · Embeddings · Hybrid search · Vector databases · Ollama
+I'm building my portfolio around software that solves real problems:
 
-**Product & Interface**
-Figma · UI/UX · Interface design · User flows · React Native · Expo
+> automating repetitive work, connecting data sources, extracting technical information  
+> and turning complex engineering workflows into reliable digital systems.
 
-**Enterprise & Engineering Context**
-Technical data workflows · Business process automation · Engineering documentation · Regulatory documents
+---
 
+## Current focus
 
-## Featured repositories
+- Improving local RAG pipelines for technical documents
+- Building sanitized public versions of real automation projects
+- Organizing engineering data workflows with PostgreSQL and pgvector
+- Developing mobile/web product prototypes with better UX/UI
 
-Coming soon:
-
-* `technical-rag-assistant` — Local RAG assistant for technical documents.
-* `batch-record-completion-automation` — Demo case study of a batch automation that reduced a manual workflow from days to minutes.
-* `engineering-request-automation-demo` — Technical request automation with validation rules, document generation and structured logs.
-* `tripquest-mobile` — Gamified travel app concept built with React Native and Expo.
-
-## Professional focus
-
-I’m building my portfolio around software that solves real problems:
-
-> automating repetitive work, connecting data sources, extracting technical information and turning complex processes into reliable digital workflows.
+---
 
 ## Contact
 
-* Email: [fcm.mateus@gmail.com](mailto:fcm.mateus@gmail.com)
-* LinkedIn: coming soon
+- Email: `fcm.mateus@gmail.com`
+- LinkedIn: coming soon
